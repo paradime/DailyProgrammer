@@ -1,0 +1,3 @@
+load './haystack.rb'
+stack = Haystack.new
+stack.read_file '../challenge.txt'
